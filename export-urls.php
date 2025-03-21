@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: Export Your URLs
+ * Plugin Name: Export all your WordPress URLs
  * Description: Export all posts, pages, and custom post types with their URLs to CSV.
- * Version: 1.2
+ * Version: 1.3
  * Author: Mauricio Andres Rodriguez
  */
 

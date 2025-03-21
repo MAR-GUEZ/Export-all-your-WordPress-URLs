@@ -1,4 +1,4 @@
-# Export All URLs - WordPress Plugin
+# Export-all-your-WordPress-URLs - WordPress Plugin
 
 A simple yet powerful WordPress plugin that exports all posts, pages, custom post types, and media URLs to CSV files.
 
@@ -15,9 +15,10 @@ The plugin provides separate exports for content (posts, pages, custom post type
 
 ## Installation
 
-1. Upload the `export-all-urls` folder to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Access the tool via the new "Export All URLs" item in your admin menu
+1. Download the contents of this repo, select 'Download ZIP'
+2. Upload the `export-all-urls` folder to the `/wp-content/plugins/` directory
+3. Activate the plugin through the 'Plugins' menu in WordPress
+4. Access the tool via the new "Export All URLs" item in your admin menu
 
 ## Features
 
