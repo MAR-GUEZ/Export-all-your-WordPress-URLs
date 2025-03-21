@@ -79,7 +79,7 @@ If you encounter any issues:
 
 ## Support
 
-For support or feature requests, please contact the plugin author or open an issue on the plugin repository.
+For support or feature requests, please submit an issue on the plugin repository.
 
 ## License
 
